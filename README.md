@@ -3,6 +3,7 @@
 ![Preview](https://user-images.githubusercontent.com/100188983/162989026-a10a7ab2-d646-4d2c-b084-eea4fc9917cf.png)
 
 ## How to Install
+
 > Download the Dark Mint folder
 
 > Open Chrome extentions and enable "Developer mode"
@@ -17,6 +18,7 @@
 
 
 ## I DONT LIKE IT GO BACK
+
 > If you are having doubts just press the undo button on the pop up
 
 ![2022-04-12 15_09_08-Extensions](https://user-images.githubusercontent.com/100188983/162990654-74cfe1dd-ceec-4325-811f-8d3c8a75df7b.png)
